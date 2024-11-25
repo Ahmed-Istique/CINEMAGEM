@@ -1,0 +1,5 @@
+    useEffect(() => {
+        navigate(`/search?sq=${searchInput}`)
+    }, [searchInput])
+
+    

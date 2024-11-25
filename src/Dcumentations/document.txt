@@ -1,0 +1,25 @@
+CINEMAGEM - Discover Cinematic Treasures
+
+
+
+1:24:04
+
+https://www.youtube.com/watch?v=aNT1BvfjYTo
+
+
+
+2:11:06
+
+
+For date :
+https://momentjs.com/
+
+
+
+TheMovieDB:
+https://developer.themoviedb.org/reference/intro/getting-started
+
+
+ExplorePages.jsx:
+Here I made another reusable component , that will show unlimited information fro the API call.
+It is I made a Child under TVShows.jsx 

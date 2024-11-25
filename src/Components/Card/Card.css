@@ -1,0 +1,21 @@
+.cards-container::-webkit-scrollbar-thumb {
+    background-color: #395263;
+    border-radius: 15px;
+    width: 10px;
+  }
+  
+  .cards-container::-webkit-scrollbar {
+    width: 10vw;
+    height: 0.4vw;
+  }
+  
+  @media (max-width: 768px) { /* Adjust the breakpoint as needed */
+    .cards-container::-webkit-scrollbar-thumb {
+      width: 40vw; /* Adjust the width for smaller screens */
+    }
+  
+    .cards-container::-webkit-scrollbar {
+      width: 30vw; /* Adjust the width for smaller screens */
+      height: 1.5vw;
+    }
+  }
